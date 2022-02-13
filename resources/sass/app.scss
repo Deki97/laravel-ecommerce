@@ -1,0 +1,10 @@
+// Per poter utilizzare i diversi fogli di stile nelle partials devo importarli
+
+// Import Fontawesome
+@import "node_modules/font-awesome/scss/font-awesome.scss";
+
+@import 'partials/_general';
+@import 'partials/_variables';
+@import 'partials/_header';
+@import 'partials/_main';
+@import 'partials/_footer';
